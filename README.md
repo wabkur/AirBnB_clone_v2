@@ -1,1 +1,1 @@
-# AirBnB_clone_v2
+script that prepares a MySQL server for the project
