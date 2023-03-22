@@ -1,1 +1,1 @@
-script that prepares a MySQL server for the project
+setup_mysql_test.sql
